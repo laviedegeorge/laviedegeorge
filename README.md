@@ -14,7 +14,7 @@ I specialize in creating reusable components, integrating APIs (REST & GraphQL),
 
 ## 💼 Experience Highlight  
 **Lead Frontend Engineer @ Heala Tech (2022 – Present)**  
-- Scaled a healthcare platform from <100 consultations/month to **5,000+ consultations/month**.  
+- Scaled a healthcare platform from <100 consultations/month to **7,000+ consultations/month** as of Aug. 2025.  
 - Built reusable UI systems, optimized performance, and implemented multi-tenant architecture.  
 - Contributed to the development of a **virtual clinic** transforming healthcare delivery.  
 
