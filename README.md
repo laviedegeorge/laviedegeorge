@@ -1,7 +1,10 @@
 # Hi, I'm Kelechi George Apugo
 
-I am a **Frontend Engineer** with experience building scalable, maintainable, and user-friendly web applications.  
-I specialize in creating reusable components, integrating APIs (REST & GraphQL), and optimizing performance to deliver seamless digital experiences.  
+I'm an enthusiastic Software Engineer with over five years of experience in crafting scalable, high-performance web applications, specialising in frontend development. I'm passionate about utilising cutting-edge technologies such as React, Next.js, TypeScript, JavaScript, GraphQL (Apollo), REST APIs, Axios, and more to build solid applications and modern frontend architectures.
+
+I take pride in writing clean, maintainable code and designing responsive, accessible user interfaces, while ensuring application reliability through thorough testing with Jest and Cypress. Thriving in Agile environments, I love collaborating with diverse teams to create exceptional production-grade systems.
+
+I’m truly excited about tackling complex challenges, embracing new technologies, and building software that not only scales but also adds real value! 
 
 ---
 
@@ -15,7 +18,7 @@ I specialize in creating reusable components, integrating APIs (REST & GraphQL),
 ## 💼 Experience Highlight  
 **Lead Frontend Engineer @ Heala Tech (2022 – Present)**  
 - Scaled a healthcare platform from <100 consultations/month to **7,000+ consultations/month** as of Aug. 2025.  
-- Built reusable UI systems, optimized performance, and implemented multi-tenant architecture.  
+- Built reusable UI systems, optimised performance, and implemented multi-tenant architecture.  
 - Contributed to the development of a **virtual clinic** transforming healthcare delivery.  
 
 ---
