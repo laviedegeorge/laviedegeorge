@@ -10,7 +10,7 @@ I’m truly excited about tackling complex challenges, embracing new technologie
 
 ## 🔧 Skills  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,graphql,redux,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,nodejs,html,css,graphql,redux,git,github,gitlab,vite,webpack,jest,cypress,storybook,sass,emotion,figma,sentry,netlify,vercel" />
 </p>
 
 ---
