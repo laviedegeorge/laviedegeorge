@@ -39,8 +39,8 @@ You can explore my featured work here:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laviedegeorge&theme=tokyonight" alt="GitHub streak" />
-  <img src="https://streak-stats.demolab.com/?user=laviedegeorge&theme=tokyonight" alt="GitHub streak" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=laviedegeorge&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=laviedegeorge&theme=tokyonight" alt="GitHub streak" /> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=laviedegeorge&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
