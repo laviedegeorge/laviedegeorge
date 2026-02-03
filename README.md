@@ -39,7 +39,7 @@ You can explore my featured work here:
 </p>
 
 <p align="center">
-  <img src="https://laviedegeorge-github-readme-stats.vercel.app/api/?user=laviedegeorge&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://laviedegeorge-github-readme-stats.vercel.app/api?username=laviedegeorge&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 ---
