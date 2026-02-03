@@ -31,11 +31,11 @@ You can explore my featured work here:
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laviedegeorge&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://laviedegeorge-github-readme-stats.vercel.app/api?username=laviedegeorge&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laviedegeorge&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://laviedegeorge-github-readme-stats.vercel.app/api/top-langs/?username=laviedegeorge&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 <p align="center">
